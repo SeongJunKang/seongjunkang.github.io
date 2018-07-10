@@ -35,5 +35,5 @@ console.log(map.get("1"));
 
 ![map 결과](/assets/image/javascript/map/map.png)
 
-자세한 내용은 아래의 링크를 참고하시면 됩니다.
+자세한 내용은 아래의 링크를 참고하시면 됩니다.<br>
 참고 : <a href ="https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Map" >https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Map</a>
