@@ -20,7 +20,7 @@ var key = 1;
 var value = "value";
 var value2 = "value2";
 map.set(key,value);
-console.log(map.get(key));
+console.log("key"+key,map.get(key));
 ~~~
 한가지 알아야 할 점이 있다면, 키를 주의하셔야 합니다. 숫자와 문자형이 다르게 취급됩니다.
 
