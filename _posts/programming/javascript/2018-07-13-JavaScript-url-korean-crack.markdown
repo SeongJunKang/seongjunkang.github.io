@@ -6,7 +6,7 @@ categories: javascript
 author : "Junny"
 permalink: /:categories/:title
 ---
-# JavaScript URL 한글 문자 깨짐 현상 해결
+# [JavaScript] URL 한글 문자 깨짐 현상 해결
 
 간혹 URL에 한글을 사용할 때가 있다.  
 

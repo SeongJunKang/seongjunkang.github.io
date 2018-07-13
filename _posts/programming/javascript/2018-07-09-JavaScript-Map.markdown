@@ -7,7 +7,7 @@ author : "Junny"
 permalink: /:categories/:title
 ---
 
-# JavaScript Map 객체 사용
+# [JavaScript] Map 객체 사용
  
  Java의  Map처럼 자바스크립트도 map 객체가 있습니다.<br>
  간혹 사용할 일이 있기 때문에, 사용 예제를 적어두겠습니다.<br>
