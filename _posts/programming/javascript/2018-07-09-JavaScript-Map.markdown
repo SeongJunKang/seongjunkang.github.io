@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "javaScript Map 객체 사용"
+title:  "[javaScript] Map 객체 사용"
 date:   2018-07-09
 categories: javascript
 author : "Junny"

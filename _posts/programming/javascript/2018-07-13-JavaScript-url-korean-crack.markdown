@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "javaScript Map 객체 사용"
+title:  "[javaScript] URL 한글 문자 깨짐 현상"
 date:   2018-07-13
 categories: javascript
 author : "Junny"
