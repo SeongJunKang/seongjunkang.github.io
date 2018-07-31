@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "[Java] 자바에서 솔라 쿼리 예제 (Solr Query Example From Java)"
