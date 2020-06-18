@@ -1,0 +1,73 @@
+<header class="site-header">
+	<div class="branding">
+		{% if site.theme_settings.gravatar %}
+		<a href="{{ site.baseurl }}/">
+			<img class="avatar" src="https://secure.gravatar.com/avatar/{{ site.theme_settings.gravatar }}?s=100" alt=""/>
+		</a>
+		{% elsif site.theme_settings.avatar %}
+		<a href="{{ site.baseurl }}/">
+			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
+		</a>
+		{% endif %}
+		<h1 class="site-title">
+			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
+		</h1>
+		<!-- Social icons from Font Awesome, if enabled  -->
+		{% include icons.html %}
+		<nav class="site-nav">
+				<ul>
+					<!-- Search bar -->
+					{% if site.theme_settings.search %}
+					<li>
+					<form action="{{ site.baseurl }}/search.html" method="get">
+						<input type="text" id="search-box" name="query" placeholder="Search" class="">
+						<button type="submit" class="">
+							<i class="fa fa-fw fa-search"></i>
+						</button>
+					</form>
+					</li>
+					{% endif %}
+					{% for page in site.pages %}
+						{% if (page.title =='tags') and page.hide != true %}
+							<li>
+								<a class="page-link" href="{{ page.url | relative_url }}">
+									{{ page.title }}
+								</a>
+							</li>
+						{% endif %}
+					{% endfor %}
+				</ul>
+		</nav>
+	</div>
+	<div class="site-category">
+			<ul class='cat1'>
+				<li><a href="/">Home</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/">Java</a>
+					<ul>
+						<li><a href="/Java/JSTL">JSTL</a></li>
+						<li><a href="/Java/Spring">Spring</a></li>
+					</ul>
+				</li>
+				<li><a href="/">JavaScript</a>
+					<ul>
+						<li><a href="/Javascript/JS">Javascript</a></li>
+						<li><a href="/Javascript/Jquery">Jquery</a></li>
+					</ul>
+				</li>
+				<li><a href="/">Data Base</a>
+					<ul>
+						<li><a href="/DB/MYSQL">MYSQL</a></li>
+					</ul>
+				</li>
+
+				<li><a href="/">DevOps</a>
+					<ul>						  
+						  <li><a href="/DevOps/Git">Git</a></li>
+						  <li><a href="/DevOps/Docker">Docker</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+
+</header>
