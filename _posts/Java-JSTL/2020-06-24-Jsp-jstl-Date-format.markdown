@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Jstl] JSP에서 jstl Date Format"
-date:   2019-03-07
+date:   2020-06-24
 categories: [Java/JSTL]
 author : "Junny"
 tags : [Java,Jsp,JSTL]
