@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "[Git] Commit Message Convention
-date:   2020-06-25
+title: "[Git] Commit Message Convention"
+date: 2020-06-25
 categories: [DevOps/Git]
 author : "Junny"
-tags : [Git,commit_message_convention]
+tags : [Git,commitMessageConvention]
 ---
 # Commit Message Convention
 - Commit 메세지 내용에 대한 고민을 하다가 웹사이트에 잘 정리된 내용을 보고 번역하려고한다.<br>
