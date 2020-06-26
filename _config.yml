@@ -2,6 +2,18 @@
 baseurl: 
 url: "https://seongjunkang.github.io"
 
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
@@ -45,7 +57,7 @@ theme_settings:
 
   # Scripts
   google_analytics: UA-123131775-1 # Tracking ID, e.g. "UA-000000-01"
-  disqus_shortname:
+  disqus_shortname: seongjunkang-github-io
   katex: true # Enable if using math markup
   search: true # Enable the search feature
 
