@@ -15,6 +15,8 @@ tags : [Git,commitMessageConvention]
 
 ## Commit Message Structure
 - 기본적으로 커밋 메시지는 공백 라인을 가지고 3가지의 분리되어 구성된다 : 제목/본문/꼬리말로 구성된다. 레이아웃은 아래와 같다
+<br>
+
 ```
 type : subject
 
@@ -23,6 +25,7 @@ body
 footer
 ```
 
+<br>
 제목은 메세지의 유형과 제목으로 구성된다
 ## Commit Type
 유형은 제목 안에 포함되며 아래의 유형들 중에 하나가 될 수있다.
@@ -48,6 +51,8 @@ footer
 - issue tracker id를 작성할때 사용한다. #123
 
 ## Example Commit Message
+<br>
+
 ```
 feat: Summarize changes in around 50 characters or less
 
@@ -77,3 +82,5 @@ like this:
 Resolves: #123
 See also: #456, #789
 ```
+
+<br>
