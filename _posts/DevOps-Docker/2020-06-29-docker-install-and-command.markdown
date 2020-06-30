@@ -2,7 +2,7 @@
 layout: post
 title: "[Docker] docker 설치 및 명령어 모음 "
 date: 2020-06-29
-categories: [DevOps/Git]
+categories: [DevOps/Docker]
 author : "Junny"
 tags : [docker,docker_install,docker_command]
 ---
