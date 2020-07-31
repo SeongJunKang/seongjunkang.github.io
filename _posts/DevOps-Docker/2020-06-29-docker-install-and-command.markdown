@@ -23,7 +23,7 @@ docker --version
 ```
 결과 값
 
-![docker --version img](https://github.com/SeongJunKang/doicker_practice/blob/master/img/docker_version.png)<br>
+![docker --version img](/assets/image/docker/docker_version.png)<br>
 
 아래는 docker로 진행된 내용입니다.
 
