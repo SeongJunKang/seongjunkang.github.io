@@ -2,7 +2,7 @@
 layout: post
 title:  "[Solr] How to Solr core reload"
 date:   2020-07-20
-categories: [Java/Spring]
+categories: [Java/Solr]
 author : "Junny"
 tags : [Solr_core_reload]
 ---

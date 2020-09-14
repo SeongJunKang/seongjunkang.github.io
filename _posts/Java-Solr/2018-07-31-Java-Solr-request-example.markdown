@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "[Java] 자바에서 솔라 쿼리 예제 (Solr Query Example From Java)"
-categories: [Java/Spring]
+title:  "[Solr] Java에서 Solr query 예제 (Solr Query Example From Java)"
+categories: [Java/Solr]
 author : "Junny"
 tags: [SolrJ,Lucene]
 ---
-# [Java] 자바에서 솔라 쿼리 예제 
+# [Solr] 자바에서 솔라 쿼리 예제 
 
 Java에서 Apache Solr를 이용한 쿼리 생성 및 리퀘스트와 리스폰즈 결과받기.
 Maven을 이용하여 Solr 버전에 맞게 Jar파일을 가져온다.
