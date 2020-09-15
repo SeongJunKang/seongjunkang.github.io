@@ -85,7 +85,9 @@ cf)
 solr 7.5버전 이상에서는 한글형태소분석기 nori가 지원된다
 
 managed-schema에 
+```
 <field name="book_name" type="text_ko" indexed="true" stored="true"/>
+```
 이렇게 입력하면 한글 형태소 분석기를 사용한 색인이 된다.
 
 field의 속성은 각각의 다음을 의미한다.
