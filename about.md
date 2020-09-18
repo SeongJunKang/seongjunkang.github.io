@@ -5,12 +5,13 @@ permalink: /about/
 ---
 
 
-Java, Spring을 주로 사용하고 있는 개발자
+<div style="text-align:center;">Java, Spring을 주로 사용하고 있는 개발자</div>
 
 
-한국 역사 고전 문헌에 대한 신규 사이트를 개발/ 기존 사이트 유지보수 및 개편을 맡고있습니다.
-Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하고 있습니다.
+한국 역사 고전 문헌에 대한 사이트를 개발/유지보수를 맡고있습니다.<br>
+주로Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하고 있습니다.
 
+<br><br><br>
 
 ## 주요 기술
 - Language : Java8
@@ -21,11 +22,12 @@ Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하�
 - Configuration Management : Git/GitLab
 - Continuous Integration : Jenkins
 - Docker/Docker-compose
+<br>
 
 ## 프로젝트
 ### 참가 프로젝트
 **(주)윤즈정보개발 : 2018.03 ~ 재직중**
- 
+ <br>
 1. [세종한글고전](http://db.sejongkorea.org/)
 - Apache Solr(7.5.0) 옛한글 CharacterFilter, 한글/한자 독음 필터 제작
 - 검색엔진 설정 및 검색결과 패싯 추가
@@ -33,7 +35,7 @@ Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하�
 - 기존의 이미지만 보이던 뷰어를 확대가 가능한 이미지뷰어 및 본문을 추가
 - 사이트 관리자 페이지 제작하여 통계 및 데이터 관리기능 추가
 - XML 데이터를 DB로 입력하는 데이터 업로드기를 제작
-
+<br>
 2. [동양고전종합DB](http://db.cyberseodang.or.kr/)
 - 글자 위주의 정보 제공사이트를 이미지 중심의 사이트로 개편
 - 동영상 뷰어를 vimeo로 변경
@@ -60,13 +62,15 @@ Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하�
 * 테스트 서버별 DB가 달라 multple datasource를 사용
 * 여러개 XML 데이터를 처리하기 위한 Thread 사용
 
+<br>
 **(주)코드원시스템 : 2016.09 ~ 2017.09**
 1. 안드로이드/IOS 모바일 신분증 인식 모듈
 - Abbyy/Tesseract 텍스트 인식 기술을 이용한 신분증 인식 모듈 개발
 2. 신분증 인식 처리를 위한 웹서버 개발 
 - Abbyy 텍스트 인식 기술을 이용한 신분증 인식 모듈 개발
 
-
+<br>
+<br>
 ### Contact
 <div>Nick : junny</div>
 <div>Family Name 	: Kang</div>
