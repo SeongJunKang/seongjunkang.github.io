@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: About
@@ -6,14 +5,14 @@ permalink: /about/
 ---
 
 
-<div style="text-align:center;">
-Java & SpringÀ» ÁÖ·Î »ç¿ëÇÏ°í ÀÖ´Â °³¹ßÀÚ
-</div>
+Java, Springì„ ì£¼ë¡œ ì‚¬ìš©í•˜ê³  ìžˆëŠ” ê°œë°œìž
 
-ÇÑ±¹ ¿ª»ç °íÀü ¹®Çå¿¡ ´ëÇÑ ½Å±Ô »çÀÌÆ®¸¦ °³¹ß/ ±âÁ¸ »çÀÌÆ® À¯Áöº¸¼ö ¹× °³ÆíÀ» ¸Ã°íÀÖ½À´Ï´Ù.  
-Apache Solr °Ë»ö¿£ÁøÀ» ÅëÇÑ ÇÑ¹®/ÇÑ±Û °Ë»ö ¼­ºñ½º¸¦ °³¹ßÇÏ°í ÀÖ½À´Ï´Ù.  
 
-## ÁÖ¿ä ±â¼ú
+í•œêµ­ ì—­ì‚¬ ê³ ì „ ë¬¸í—Œì— ëŒ€í•œ ì‹ ê·œ ì‚¬ì´íŠ¸ë¥¼ ê°œë°œ/ ê¸°ì¡´ ì‚¬ì´íŠ¸ ìœ ì§€ë³´ìˆ˜ ë° ê°œíŽ¸ì„ ë§¡ê³ ìžˆìŠµë‹ˆë‹¤.
+Apache Solr ê²€ìƒ‰ì—”ì§„ì„ í†µí•œ í•œë¬¸/í•œê¸€ ê²€ìƒ‰ ì„œë¹„ìŠ¤ë¥¼ ê°œë°œí•˜ê³  ìžˆìŠµë‹ˆë‹¤.
+
+
+## ì£¼ìš” ê¸°ìˆ 
 - Language : Java8
 - Framework : Spring Framework/Boot
 - View : Jsp, Thymeleaf
@@ -23,55 +22,55 @@ Apache Solr °Ë»ö¿£ÁøÀ» ÅëÇÑ ÇÑ¹®/ÇÑ±Û °Ë»ö ¼­ºñ½º¸¦ °³¹ßÇÏ°í ÀÖ½À´Ï´Ù.
 - Continuous Integration : Jenkins
 - Docker/Docker-compose
 
-## ÇÁ·ÎÁ§Æ®
-### Âü°¡ ÇÁ·ÎÁ§Æ®
-**(ÁÖ)À±ÁîÁ¤º¸°³¹ß : 2018.03 ~ ÀçÁ÷Áß**
+## í”„ë¡œì íŠ¸
+### ì°¸ê°€ í”„ë¡œì íŠ¸
+**(ì£¼)ìœ¤ì¦ˆì •ë³´ê°œë°œ : 2018.03 ~ ìž¬ì§ì¤‘**
  
-1. ¼¼Á¾ÇÑ±Û°íÀü(http://db.sejongkorea.org/)
-- Apache Solr(7.5.0) ¿¾ÇÑ±Û CharacterFilter , ÇÑ±Û/ÇÑÀÚ µ¶À½ ÇÊÅÍ Á¦ÀÛ
-- °Ë»ö¿£Áø ¼³Á¤ ¹× °Ë»ö°á°ú ÆÐ½Ë Ãß°¡
-- DB ¿¬°èÇ×¸ñ µ¥ÀÌÅÍ ¹× ÀÌ¹ÌÁö Ãß°¡
-- ±âÁ¸ÀÇ ÀÌ¹ÌÁö¸¸ º¸ÀÌ´ø ºä¾î¸¦ È®´ë°¡ °¡´ÉÇÑ ÀÌ¹ÌÁöºä¾î ¹× º»¹®À» Ãß°¡
-- »çÀÌÆ® °ü¸®ÀÚ ÆäÀÌÁö Á¦ÀÛÇÏ¿© Åë°è ¹× µ¥ÀÌÅÍ °ü¸®±â´É Ãß°¡
-- XML µ¥ÀÌÅÍ¸¦ DB·Î ÀÔ·ÂÇÏ´Â µ¥ÀÌÅÍ ¾÷·Îµå±â¸¦ Á¦ÀÛ
+1. [ì„¸ì¢…í•œê¸€ê³ ì „](http://db.sejongkorea.org/)
+- Apache Solr(7.5.0) ì˜›í•œê¸€ CharacterFilter, í•œê¸€/í•œìž ë…ìŒ í•„í„° ì œìž‘
+- ê²€ìƒ‰ì—”ì§„ ì„¤ì • ë° ê²€ìƒ‰ê²°ê³¼ íŒ¨ì‹¯ ì¶”ê°€
+- DB ì—°ê³„í•­ëª© ë°ì´í„° ë° ì´ë¯¸ì§€ ì¶”ê°€
+- ê¸°ì¡´ì˜ ì´ë¯¸ì§€ë§Œ ë³´ì´ë˜ ë·°ì–´ë¥¼ í™•ëŒ€ê°€ ê°€ëŠ¥í•œ ì´ë¯¸ì§€ë·°ì–´ ë° ë³¸ë¬¸ì„ ì¶”ê°€
+- ì‚¬ì´íŠ¸ ê´€ë¦¬ìž íŽ˜ì´ì§€ ì œìž‘í•˜ì—¬ í†µê³„ ë° ë°ì´í„° ê´€ë¦¬ê¸°ëŠ¥ ì¶”ê°€
+- XML ë°ì´í„°ë¥¼ DBë¡œ ìž…ë ¥í•˜ëŠ” ë°ì´í„° ì—…ë¡œë“œê¸°ë¥¼ ì œìž‘
 
-2. µ¿¾ç°íÀüÁ¾ÇÕDB(http://db.cyberseodang.or.kr/)
-- ±ÛÀÚ À§ÁÖÀÇ Á¤º¸ Á¦°ø»çÀÌÆ®¸¦ ÀÌ¹ÌÁö Áß½ÉÀÇ »çÀÌÆ®·Î °³Æí
-- µ¿¿µ»ó ºä¾î¸¦ vimeo·Î º¯°æ
-- °ü¸®ÀÚÆäÀÌÁö¿¡ Åë°è ±â´ÉµéÀ» Ãß°¡ÇÏ°í, d3.js¸¦ ÀÌ¿ëÇÏ¿© ½Ã°¢È­ µµÀÔ
-- µ¿¿µ»ó µî·Ï ±â´É ¹× Vimeo ¿¬µ¿ ±â´É Ãß°¡
-- Apache Solr °Ë»ö¿£Áø µµÀÔ ¹× ÇÑ±Û/ÇÑÀÚ ÇÊÅÍ, ÇÑÀÚ/ÀÌÃ¼ÀÚ ÇÊÅÍ Á¦ÀÛ
+2. [ë™ì–‘ê³ ì „ì¢…í•©DB](http://db.cyberseodang.or.kr/)
+- ê¸€ìž ìœ„ì£¼ì˜ ì •ë³´ ì œê³µì‚¬ì´íŠ¸ë¥¼ ì´ë¯¸ì§€ ì¤‘ì‹¬ì˜ ì‚¬ì´íŠ¸ë¡œ ê°œíŽ¸
+- ë™ì˜ìƒ ë·°ì–´ë¥¼ vimeoë¡œ ë³€ê²½
+- ê´€ë¦¬ìžíŽ˜ì´ì§€ì— í†µê³„ ê¸°ëŠ¥ë“¤ì„ ì¶”ê°€í•˜ê³ , d3.jsë¥¼ ì´ìš©í•˜ì—¬ ì‹œê°í™” ë„ìž…
+- ë™ì˜ìƒ ë“±ë¡ ê¸°ëŠ¥ ë° Vimeo ì—°ë™ ê¸°ëŠ¥ ì¶”ê°€
+- Apache Solr ê²€ìƒ‰ì—”ì§„ ë„ìž… ë° í•œê¸€/í•œìž í•„í„°, í•œìž/ì´ì²´ìž í•„í„° ì œìž‘
 
-3. µ¿¾ç°íÀü¹ø¿ª¿ë·ÊDB(http://lu.juntong.or.kr/)
-- ·¹°Å½Ã ¼Ò½ºÄÚµå¸¦ °³ÆíÇÏ°í ¾îÈÖ¸ÁÀ» ½Ã°¢È­(d3.js)ÇÏ¿© Á¦°ø
-- Solr 4.x ¹öÀüÀÇ solr¸¦ 7.x¹öÀüÀ¸·Î ¾÷±×·¹ÀÌµå, ÇÑ±Û/ÇÑÀÚ µ¶À½, ÇÑÀÚ/ÀÌÃ¼ÀÚ ÇÊÅÍ Àû¿ë
-- °Ë»ö °á°ú ÆÐ½Ë Ãß°¡
-- ¹Ìµð¾î Äõ¸®¸¦ ÀÌ¿ëÇÑ ¹ÝÀÀÇü À¥ÆäÀÌÁö ±¸¼º
+3. [ë™ì–‘ê³ ì „ë²ˆì—­ìš©ë¡€](http://lu.juntong.or.kr/)
+- ë ˆê±°ì‹œ ì†ŒìŠ¤ì½”ë“œë¥¼ ê°œíŽ¸í•˜ê³  ì–´íœ˜ë§ì„ ì‹œê°í™”(d3.js)í•˜ì—¬ ì œê³µ
+- Solr 4.x ë²„ì „ì˜ solrë¥¼ 7.xë²„ì „ìœ¼ë¡œ ì—…ê·¸ë ˆì´ë“œ, í•œê¸€/í•œìž ë…ìŒ, í•œìž/ì´ì²´ìž í•„í„° ì ìš©
+- ê²€ìƒ‰ ê²°ê³¼ íŒ¨ì‹¯ ì¶”ê°€
+- ë¯¸ë””ì–´ ì¿¼ë¦¬ë¥¼ ì´ìš©í•œ ë°˜ì‘í˜• ì›¹íŽ˜ì´ì§€ êµ¬ì„±
 
-4. ÇÑ±¹¹®ÁýÃÑ°£ ÀúÀÚÇà·ÂÁ¤º¸(https://life.itkc.or.kr/)
-- ±âÁ¸ÀÇ ÇÑ±¹¹®ÁýÃÑ°£¿¡ ÀÖ´ø Çà·ÂÁ¤º¸µéÀ» µû·Î ºñ±³ÇÏ¿© º¼ ¼ö ÀÖµµ·Ï ¼­ºñ½º¸¦ °³¹ß
-- Apache Solr °Ë»ö¿£Áø µµÀÔ ¹× ÇÑ±Û/ÇÑÀÚ ÇÊÅÍ, ÇÑÀÚ/ÀÌÃ¼ÀÚ ÇÊÅÍ Á¦ÀÛ
+4. [í•œêµ­ë¬¸ì§‘ì´ê°„ ì €ìží–‰ë ¥ì •ë³´](https://life.itkc.or.kr/)
+- ê¸°ì¡´ì˜ í•œêµ­ë¬¸ì§‘ì´ê°„ì— ìžˆë˜ í–‰ë ¥ì •ë³´ë“¤ì„ ë”°ë¡œ ë¹„êµí•˜ì—¬ ë³¼ ìˆ˜ ìžˆë„ë¡ ì„œë¹„ìŠ¤ë¥¼ ê°œë°œ
+- Apache Solr ê²€ìƒ‰ì—”ì§„ ë„ìž… ë° í•œê¸€/í•œìž í•„í„°, í•œìž/ì´ì²´ìž í•„í„° ì œìž‘
 
-5. ÇÑ±¹°íÀüÁ¾ÇÕDB È°¿ë°ø¸ðÀü(https://contest.itkc.or.kr/)
-- ±âÁ¸ÀÇ ÀÌ¸ÞÀÏ·Î ½ÅÃ»ÇÏ´ø °ø¸ðÀüÀ» À¥ »çÀÌÆ®·Î Á¦ÀÛ
-- Á¦ÃâÇÑ ¼­·ù ¹× ³»¿ªÀÌ ³²µµ·Ï »çÀÌÆ®¿Í ÀÌ¸¦ °ü¸®ÇÒ ¼ö ÀÖ´Â °ü¸®ÀÚÆäÀÌÁö
+5. [í•œêµ­ê³ ì „ì¢…í•©DB í™œìš©ê³µëª¨ì „](https://contest.itkc.or.kr/)
+- ê¸°ì¡´ì˜ ì´ë©”ì¼ë¡œ ì‹ ì²­í•˜ë˜ ê³µëª¨ì „ì„ ì›¹ ì‚¬ì´íŠ¸ë¡œ ì œìž‘
+- ì œì¶œí•œ ì„œë¥˜ ë° ë‚´ì—­ì´ ë‚¨ë„ë¡ ì‚¬ì´íŠ¸ì™€ ì´ë¥¼ ê´€ë¦¬í•  ìˆ˜ ìžˆëŠ” ê´€ë¦¬ìžíŽ˜ì´ì§€
 
-6. XML µ¥ÀÌÅÍ ¾÷·Î´õ
-* SpringBoot·Î È¸»ç³»ºÎÀÇ °¢ Å×½ºÆ®¼­¹ö¿¡ µ¥ÀÌÅÍ¸¦ ¾÷·ÎµåÇÒ ¼ö ÀÖ´Â À¥¼­¹ö °³¹ß
-* Å×½ºÆ® ¼­¹öº° DB°¡ ´Þ¶ó multple datasource¸¦ »ç¿ë
-* ¿©·¯°³ XML µ¥ÀÌÅÍ¸¦ Ã³¸®ÇÏ±â À§ÇÑ Thread »ç¿ë
+6. XML ë°ì´í„° ì—…ë¡œë”
+* SpringBootë¡œ íšŒì‚¬ë‚´ë¶€ì˜ ê° í…ŒìŠ¤íŠ¸ì„œë²„ì— ë°ì´í„°ë¥¼ ì—…ë¡œë“œí•  ìˆ˜ ìžˆëŠ” ì›¹ì„œë²„ ê°œë°œ
+* í…ŒìŠ¤íŠ¸ ì„œë²„ë³„ DBê°€ ë‹¬ë¼ multple datasourceë¥¼ ì‚¬ìš©
+* ì—¬ëŸ¬ê°œ XML ë°ì´í„°ë¥¼ ì²˜ë¦¬í•˜ê¸° ìœ„í•œ Thread ì‚¬ìš©
 
-**(ÁÖ)ÄÚµå¿ø½Ã½ºÅÛ : 2016.09 ~ 2017.09**
-1. ¾Èµå·ÎÀÌµå/IOS ¸ð¹ÙÀÏ ½ÅºÐÁõ ÀÎ½Ä ¸ðµâ
-- Abbyy/Tesseract ÅØ½ºÆ® ÀÎ½Ä ±â¼úÀ» ÀÌ¿ëÇÑ ½ÅºÐÁõ ÀÎ½Ä ¸ðµâ °³¹ß
-2. ½ÅºÐÁõ ÀÎ½Ä Ã³¸®¸¦ À§ÇÑ À¥¼­¹ö °³¹ß 
-- Abbyy ÅØ½ºÆ® ÀÎ½Ä ±â¼úÀ» ÀÌ¿ëÇÑ ½ÅºÐÁõ ÀÎ½Ä ¸ðµâ °³¹ß
+**(ì£¼)ì½”ë“œì›ì‹œìŠ¤í…œ : 2016.09 ~ 2017.09**
+1. ì•ˆë“œë¡œì´ë“œ/IOS ëª¨ë°”ì¼ ì‹ ë¶„ì¦ ì¸ì‹ ëª¨ë“ˆ
+- Abbyy/Tesseract í…ìŠ¤íŠ¸ ì¸ì‹ ê¸°ìˆ ì„ ì´ìš©í•œ ì‹ ë¶„ì¦ ì¸ì‹ ëª¨ë“ˆ ê°œë°œ
+2. ì‹ ë¶„ì¦ ì¸ì‹ ì²˜ë¦¬ë¥¼ ìœ„í•œ ì›¹ì„œë²„ ê°œë°œ 
+- Abbyy í…ìŠ¤íŠ¸ ì¸ì‹ ê¸°ìˆ ì„ ì´ìš©í•œ ì‹ ë¶„ì¦ ì¸ì‹ ëª¨ë“ˆ ê°œë°œ
 
 
 ### Contact
-<div>Nick 	: junny</div>
+<div>Nick : junny</div>
 <div>Family Name 	: Kang</div>
 <div>Given Name 	: SeongJun</div>
 <div>E-mail 	: tjdwns8574@gmail.com</div>
 <div>Git : <a href="https://github.com/seongjunkang">https://github.com/seongjunkang</a></div>
-<div>Blog 	: <a href="https://blog.naver.com/tjdwns8574">https://blog.naver.com/tjdwns8574</a></div>
+<div>Blog : <a href="https://blog.naver.com/tjdwns8574">https://blog.naver.com/tjdwns8574</a></div>
