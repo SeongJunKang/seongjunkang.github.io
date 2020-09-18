@@ -72,9 +72,16 @@ permalink: /about/
 <br>
 <br>
 ### Contact
+
 <div>Nick : junny</div>
 <div>Family Name 	: Kang</div>
 <div>Given Name 	: SeongJun</div>
 <div>E-mail 	: tjdwns8574@gmail.com</div>
 <div>Git : <a href="https://github.com/seongjunkang">https://github.com/seongjunkang</a></div>
-<div>Blog : <a href="https://blog.naver.com/tjdwns8574">https://blog.naver.com/tjdwns8574</a></div>
+
+<div align=center>
+[![Blog Badge](https://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://seongjunkang.github.io/)](https://seongjunkang.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kang-seong-jun-119b12152/)](https://www.linkedin.com/in/kang-seong-jun-119b12152/) 
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/xlsxlsdh)](https://www.facebook.com/xlsxlsdh) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjdwns8574@gmail.com)](mailto:tjdwns8574@gmail.com)
+</div>
