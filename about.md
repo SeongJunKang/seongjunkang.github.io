@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 
-<div style="text-align:center;">Java, Spring을 주로 사용하고 있는 개발자</div>
+<div style="text-align:center;font-weight:bold;font-size:1.5em;">Java, Spring을 주로 사용하고 있는 개발자</div>
 
-
+<p>
 한국 역사 고전 문헌에 대한 사이트를 개발/유지보수를 맡고있습니다.<br>
 주로Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하고 있습니다.
-
+</p>
 <br><br><br>
 
 ## 주요 기술
