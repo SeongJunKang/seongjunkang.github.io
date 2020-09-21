@@ -90,11 +90,12 @@ managed-schema에
 ```
 이렇게 입력하면 한글 형태소 분석기를 사용한 색인이 된다.
 
-field의 속성은 각각의 다음을 의미한다.
-name: Field의 이름
-type: Field의 자료 형태
-indexed: 색인을 할 Field인지 여부
-stored: 전체 내용을 저장할지 여부
-multiValued: 한 문서에 이 Field가 여러개 존재할 수 있는지 여부
+field의 속성은 각각의 다음을 의미한다.<br>
+name: Field의 이름<br>
+type: Field의 자료 형태<br>
+indexed: 색인을 할 Field인지 여부<br>
+stored: 전체 내용을 저장할지 여부<br>
+multiValued: 한 문서에 이 Field가 여러개 존재할 수 있는지 여부<br>
+
 
 
