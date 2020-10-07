@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "[Pyhton] list filter using function"
