@@ -32,10 +32,12 @@ Note that filter(function, iterable) is equivalent to the generator expression (
 
 See itertools.filterfalse() for the complementary function that returns elements of iterable for which function returns false.
 ```
+
 <br>
 사용 예제
 
 - ID 목록중에서  {id}.xml의 파일이 존재하지 않는 파일만 filter하도록 진행
+
 ~~~
 def file_exist(id):
 	id = id.rstrip("\n")
@@ -60,8 +62,8 @@ comprehension :
 - iterable한 오브젝트를 생성하기 위한 방법중 하나로 파이썬에서 사용할 수 있는 유용한 기능중 하나이다.
 
 
-
 사용 예제
+
 ~~~
 def file_exist(id):
 	id = id.rstrip("\n")
