@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "[Mybatiks] DB HashMap으로 가져올때 순서 유지하는 방법"
+title:  "[Mybatis] DB HashMap으로 가져올때 순서 유지하는 방법"
 date:   2020-09-28
 categories: [Java/Spring]
 author : "Junny"
 tags : [Mybatis, HashMap, LinkedHashMap]
 ---
-# [Mybatiks] DB HashMap으로 가져올때 순서 유지하는 방법
+# [Mybatis] DB HashMap으로 가져올때 순서 유지하는 방법
 
 Mybatis를 이용해서 HashMap으로 데이터를 가져오면 순서가 뒤바뀔 수있다.
 
