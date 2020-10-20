@@ -1,16 +1,24 @@
 ---
 layout: post
-title:  "[Jstl] JSP에서 formatNumber 속성 설명(JSTL formatNumber attributes)
-date:   2020-10-20
+title: "[Jstl] JSP에서 formatNumber 속성 설명(JSTL formatNumber attributes)
+date: 2020-10-20
 categories: [Java/JSTL]
 author : "Junny"
 tags : [Java,Jsp,JSTL,fmt,formatnumber]
 ---
 # [Jstl] JSP에서 formatNumber 속성 설명
 
-date를 DB에서 가져오면 가져온 그대로 뿌려주기 때문에 가독성이 떨어질 수 있다.<br>
-JSTL에서 format을 설정해주면 해당 설정값으로 날짜를 나타낼 수 있다.<br>
-아래의 태그 라이브러리(format) fmt를 상단에 선언해줘야한다.<br>
+숫자를 표시하는데에 있어 일반적으로 단위별 구분기호를 주는데,<br>
+<br>
+DB에서 바로 불러와 뿌려주면, 구분기호가 표시되지 않습니다.<br>
+<br>
+javascript로 함수로 만들어 적용해도 되지만, jstl에서 지원하는 기능을 통해서<br>
+<br>
+숫자에 구분기호 및 화폐처리 등을 할 수 있는 방안을 살펴봅니다.
+
+
+
+아래의 태그 라이브러리(format) fmt를 상단에 선언해줘야합니다.<br>
 ~~~
 //Standard Syntax:
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
