@@ -4,7 +4,7 @@ title:  "[Jstl] JSP에서 formatNumber 속성 설명(JSTL formatNumber attribute
 date:   2020-10-20
 categories: [Java/JSTL]
 author : "Junny"
-tags : [Java,Jsp,JSTL]
+tags : [Java,Jsp,JSTL,fmt,formatnumber]
 ---
 # [Jstl] JSP에서 formatNumber 속성 설명
 
