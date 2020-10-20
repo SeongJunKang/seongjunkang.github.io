@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Jstl] JSP에서 formatNumber 속성 설명(JSTL formatNumber attributes)
+title: "[Jstl] JSP에서 formatNumber 속성 설명(JSTL formatNumber attributes)"
 date: 2020-10-20
 categories: [Java/JSTL]
 author : "Junny"
