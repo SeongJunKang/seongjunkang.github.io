@@ -65,12 +65,14 @@ import tensorflow as tf
 from tensorflow import test
 print(tf.__version__)
 print(test.is_built_with_cuda() )
-print(test.is_gpu_available())
+print(test.is_gpu_available()) # test.is_gpu_available is deprecated
+print(tf.config.list_physical_devices('GPU'))
 ```
 ```
 2.4.1	# tensorflow version
 True	# cuda 설치 여부
-True	# gpu 사용 여부
+True	# gpu 사용 여부, deprecated
+[PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU'), PhysicalDevice(name='/physical_device:GPU:1', device_type='GPU')]
 ```
 
 tensorflow 2.x 버전부터는 gpu가 포함되어 설치되어 있으므로 tensorflow-gpu를 별도로 설치하지 않아도 된다.
