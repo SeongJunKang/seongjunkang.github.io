@@ -46,7 +46,7 @@ permalink: /about/
 - XML 데이터를 DB로 입력하는 데이터 업로드기를 제작
 <br>
 2. <a href="http://db.cyberseodang.or.kr/" target="_blank" style="color:blue;">동양고전종합DB</a>
-- 사용 기술 :  Apache Solr(7.5.0), Spring Framework, Mysql, Jsp, Maven, Ibatis, Python2.7, Vimeo
+- 사용 기술 :  Apache Solr(7.5.0), Spring Framework, Mysql, Jsp, Maven, Ibatis, Python2.7, Vimeo, Redis
 - 글자 위주의 정보 제공사이트를 이미지 중심의 사이트로 개편
 - 동영상 뷰어를 vimeo로 변경
 - 관리자페이지에 통계 기능들을 추가하고, d3.js를 이용하여 시각화 도입
@@ -55,7 +55,6 @@ permalink: /about/
 
 3. <a href="http://lu.juntong.or.kr/" target="_blank" style="color:blue;">동양고전번역용례</a>
 - 사용 기술 : Apache Solr(7.5.0), Spring Framework, Mysql, Jsp, Maven, Mybatis
-- 레거시 소스코드를 Refactoring(for문으로 5줄이면 될 내용을 100줄정도로 if문 나열)
 - d3.js를 사용하여 어휘관계망을 시각화
 - Solr 4.x 버전을  7.5.0버전업, 한글/한자 독음, 한자/이체자 필터 적용
 - 검색 결과 패싯 추가
