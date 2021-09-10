@@ -2,7 +2,7 @@
 layout: post
 title: "[JPA] JPA에서 객체 일부분만 가져오기"
 date: 2021-09-10
-categories: [Java/jpa]
+categories: [Java/JPA]
 author : "Junny"
 tags : [Java,jpa]
 ---
