@@ -18,7 +18,7 @@ defaults:
 theme_settings:
   # Meta
   title: SeongjunKang
-  avatar: assets/img/avatar.png
+  avatar: assets/img/avatar.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "Development Storage" # used by search engines
