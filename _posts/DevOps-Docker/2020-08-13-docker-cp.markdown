@@ -18,7 +18,7 @@ docker cp 명령어로 컨테이너-호스트간 파일 복사가 가능하다.
 다음의 명령어로 폴더나 파일을 호스트로 가져올수 있다.
 
 ```
-docker cp [container명]:[복사할 포더 혹은 파일 경로] [호스트 경로]
+docker cp [container명]:[복사할 폴더 혹은 파일 경로] [호스트 경로]
 ```
 
 ex ) docker cp ml-python:/var/workspace/dataset /usr/local/dataset
