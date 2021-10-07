@@ -9,32 +9,34 @@ permalink: /about/
 
 <br><br><br>
 <p>
-한국 역사 고전 문헌에 대한 사이트를 개발/유지보수를 맡고있습니다.<br>
-주로 Apache Solr 검색엔진을 통한 한문/한글 검색 서비스를 개발하고 있습니다.
+Spring Boot Java Back-end developer
 </p>
 <br><br><br>
 # Contact
 
 <div>English Name : Kang SeongJun</div>
-<div>Name : 강성준</div>
+<div>Korean Name : 강성준</div>
 <div>E-mail 	: <a href="mailto:tjdwns8574@gmail.com">tjdwns8574@gmail.com</a></div>
 <div>Git : <a href="https://github.com/seongjunkang">https://github.com/seongjunkang</a></div>
 <br>
 # Skills
-- Language : Java8
+- Language : Java
 - Framework : Spring Framework/Boot
 - View : Jsp, Thymeleaf
 - Database : Mysql, Mssql
 - Searech Engine : Solr(7.5.0)
-- Configuration Management : Git/GitLab
-- Continuous Integration : Jenkins
+- Configuration Management : Git/GitLab, SVN
+- Continuous Integration : Jenkins, Github Action
 - Build Tools : Maven, Gradle
-- Docker/Docker-compose
+- DevOps: Docker/Docker-compose
 <br>
 <br>
 
 # Projects
-**(주)윤즈정보개발 : 2018.03 ~ 재직중**
+**(주)클레빌: 2021.10 ~ 재직중**
+- Back-end 개발
+
+**(주)윤즈정보개발 : 2018.03 ~ 2021.07**
  <br>
 1. <a href="http://db.sejongkorea.org/" target="_blank" style="color:blue;">세종한글고전</a>
 - 사용 기술 : Apache Solr(7.5.0), Spring Framework, Mysql, Jsp, Maven, Mybatis
