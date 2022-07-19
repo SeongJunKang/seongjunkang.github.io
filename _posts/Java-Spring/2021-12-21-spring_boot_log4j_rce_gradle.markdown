@@ -45,4 +45,4 @@ Maven (pom.xml)을 사용하면 다음을 추가하면 된다.
 
 빌드를 다시하면 log4j의 버전이 바뀐것을 확인할 수 있다.
 
-자세한 내용은 (스프링 공식 사이트)[https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot]에서 확인할 수 있다.
+자세한 내용은 [스프링 공식 사이트](https://spring.io/blog/2021/12/10/log4j2-vulnerability-and-spring-boot)에서 확인할 수 있다.
