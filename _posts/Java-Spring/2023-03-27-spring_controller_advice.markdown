@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Spring] Controller advice로 Exception handling하기"
-date: 2022-09-16
+date: 2023-03-27
 categories: [Java/Spring]
 author : "Junny"
 tags : [Spring, controller, controller_advice, spring_boot]
